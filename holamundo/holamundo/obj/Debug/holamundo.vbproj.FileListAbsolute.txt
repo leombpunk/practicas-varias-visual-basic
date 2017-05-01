@@ -1,0 +1,10 @@
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\bin\Debug\holamundo.exe.config
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\bin\Debug\holamundo.exe
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\bin\Debug\holamundo.pdb
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\bin\Debug\holamundo.xml
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\obj\Debug\holamundo.vbprojResolveAssemblyReference.cache
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\obj\Debug\holamundo.Resources.resources
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\obj\Debug\holamundo.vbproj.GenerateResource.Cache
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\obj\Debug\holamundo.exe
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\obj\Debug\holamundo.xml
+E:\Analista de Sistemas\2do año re\Programacion II\2017\holamundo\holamundo\obj\Debug\holamundo.pdb
