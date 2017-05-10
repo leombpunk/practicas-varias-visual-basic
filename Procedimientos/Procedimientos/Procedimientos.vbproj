@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7B0167EE-F8E3-4ED4-8FC6-0C706A1D6156}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Procedimientos.ejercicio3_6</StartupObject>
+    <StartupObject>Procedimientos.ejercicio3_7</StartupObject>
     <RootNamespace>Procedimientos</RootNamespace>
     <AssemblyName>Procedimientos</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -74,6 +74,9 @@
     <Compile Include="ejercicio3-4.vb" />
     <Compile Include="ejercicio3-5.vb" />
     <Compile Include="ejercicio3-6.vb" />
+    <Compile Include="ejercicio3-7.vb" />
+    <Compile Include="ejercicio3-8.vb" />
+    <Compile Include="ejercicio3-9.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
