@@ -10,13 +10,16 @@
         division
     End Enum
     Sub main()
-        'Console.WriteLine("Suma(sin enum): " & operacion(3, 9))
+        llamoOperacion("3+5= ", operaciones.suma, 3, 5)
+        llamoOperacion("6*6*6= ", operaciones.multiplicacion, 6, 6, 6)
+        llamoOperacion("25-6-3-4= ", operaciones.resta, 25, 6, 3, 4)
+        'Console.WriteLine("Suma(sin pasar enum): " & Operacion(3, 9))
         'Console.WriteLine("Suma: " & Operacion(operaciones.suma, 5, 15))
         'Console.WriteLine("Multiplicacion: " & Operacion(operaciones.multiplicacion, 5, 6))
         'Console.WriteLine("Division: " & Operacion(operaciones.division, 20, 5))
         Console.ReadKey()
     End Sub
-    Private Function operacion(valor1 As Single, valor2 As Single) As Single
+    Private Function Operacion(valor1 As Single, valor2 As Single) As Single
         Return valor1 + valor2
     End Function
     Private Function Operacion(operando As operaciones, valor1 As Single, valor2 As Single) As Single
@@ -55,4 +58,13 @@
                 Return 0
         End Select
     End Function
+    Private Sub llamoOperacion(texto As String, enume As operaciones, num1 As Single, num2 As Single)
+        Console.WriteLine(texto & Operacion(enume, num1, num2))
+    End Sub
+    Private Sub llamoOperacion(texto As String, enume As operaciones, num1 As Single, num2 As Single, num3 As Single)
+        Console.WriteLine(texto & Operacion(enume, num1, num2, num3))
+    End Sub
+    Private Sub llamoOperacion(texto As String, enume As operaciones, num1 As Single, num2 As Single, num3 As Single, num4 As Single)
+        Console.WriteLine(texto & Operacion(enume, num1, num2, num3, num4))
+    End Sub
 End Module

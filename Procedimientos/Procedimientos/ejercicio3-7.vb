@@ -12,13 +12,13 @@
         division
     End Enum
     Sub main()
-        Console.WriteLine("Suma(sin enum): " & operacion(3, 9))
+        Console.WriteLine("Suma(sin enum): " & Operacion(3, 9))
         Console.WriteLine("Suma: " & Operacion(operaciones.suma, 5, 15))
         Console.WriteLine("Multiplicacion: " & Operacion(operaciones.multiplicacion, 5, 6))
         Console.WriteLine("Division: " & Operacion(operaciones.division, 20, 5))
         Console.ReadKey()
     End Sub
-    Private Function operacion(valor1 As Single, valor2 As Single) As Single
+    Private Function Operacion(valor1 As Single, valor2 As Single) As Single
         Return valor1 + valor2
     End Function
     Private Function Operacion(operando As operaciones, valor1 As Single, valor2 As Single) As Single
