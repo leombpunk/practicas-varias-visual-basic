@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7B0167EE-F8E3-4ED4-8FC6-0C706A1D6156}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Procedimientos.ejercicio3_7</StartupObject>
+    <StartupObject>Procedimientos.ejercicio3_6</StartupObject>
     <RootNamespace>Procedimientos</RootNamespace>
     <AssemblyName>Procedimientos</AssemblyName>
     <FileAlignment>512</FileAlignment>
