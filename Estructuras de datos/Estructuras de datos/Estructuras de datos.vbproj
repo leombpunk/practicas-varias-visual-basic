@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E45620B1-9272-49A7-9568-2107FBA3C1C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_de_datos.ejercicio4_3</StartupObject>
+    <StartupObject>Estructuras_de_datos.ejercicio4_5</StartupObject>
     <RootNamespace>Estructuras_de_datos</RootNamespace>
     <AssemblyName>Estructuras de datos</AssemblyName>
     <FileAlignment>512</FileAlignment>
