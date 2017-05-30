@@ -30,7 +30,7 @@
                     dominio_p = Console.ReadLine()
                     lista_paises.Add(pais, dominio_p)
                 Case 2
-                    Console.Write("Editar:" & vbCrLf & "Edito por Dominio: ")
+                    Console.Write("Editar:" & vbCrLf & "Dominio del pais a editar: ")
                     dominio_p = Console.ReadLine()
                     lista_paises.Remove(dominio_p)
                     Console.WriteLine("Listo")
