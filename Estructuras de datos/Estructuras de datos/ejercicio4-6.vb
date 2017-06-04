@@ -17,7 +17,7 @@
     Sub main()
         Dim lista_empleados As New Collection
         Dim produccion_x_dia As New ArrayList
-        Dim d_domingo, d_lunes, d_martes, d_miercoles, d_jueves, d_viernes, d_sabado As New ArrayList 'uso dias porque son constantes
+        Dim d_domingo, d_lunes, d_martes, d_miercoles, d_jueves, d_viernes, d_sabado As New ArrayList 'uso dias porque son constantes ponele
         Dim clave_emple As String
         Dim cant_productos, dia, emple As UShort
         lista_empleados.Add("Juan S.", "js")
