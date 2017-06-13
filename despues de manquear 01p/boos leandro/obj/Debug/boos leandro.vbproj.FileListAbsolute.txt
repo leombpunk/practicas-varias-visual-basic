@@ -1,0 +1,13 @@
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\bin\Debug\boos leandro.exe.config
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\bin\Debug\boos leandro.exe
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\bin\Debug\boos leandro.pdb
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\bin\Debug\boos leandro.xml
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\obj\Debug\boos_leandro.Resources.resources
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\obj\Debug\boos leandro.vbproj.GenerateResource.Cache
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\obj\Debug\boos leandro.exe
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\obj\Debug\boos leandro.xml
+D:\Users\user3\Documents\Visual Studio 2013\Projects\proyectos\boos leandro\boos leandro\obj\Debug\boos leandro.pdb
+C:\Users\SUperChota\Desktop\boos leandro\boos leandro\bin\Debug\boos leandro.exe.config
+C:\Users\SUperChota\Desktop\boos leandro\boos leandro\obj\Debug\boos leandro.exe
+C:\Users\SUperChota\Desktop\boos leandro\boos leandro\obj\Debug\boos leandro.xml
+C:\Users\SUperChota\Desktop\boos leandro\boos leandro\obj\Debug\boos leandro.pdb
