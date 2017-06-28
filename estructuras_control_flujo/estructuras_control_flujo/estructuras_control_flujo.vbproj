@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CCBC4C78-25A3-4237-A4EB-895347AB7F4E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>estructuras_control_flujo.ejercicio2_15</StartupObject>
+    <StartupObject>estructuras_control_flujo.ejercicio2_13</StartupObject>
     <RootNamespace>estructuras_control_flujo</RootNamespace>
     <AssemblyName>estructuras_control_flujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
