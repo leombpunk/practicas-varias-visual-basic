@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Entidades", "Entidades\Entidades.vbproj", "{CAE62A3D-B229-4AFB-9137-5CC84836FA7F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EntidadesTest", "EntidadesTest\EntidadesTest.vbproj", "{A5EC2329-5AAF-4E25-842C-2D4A55010717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE62A3D-B229-4AFB-9137-5CC84836FA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE62A3D-B229-4AFB-9137-5CC84836FA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE62A3D-B229-4AFB-9137-5CC84836FA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE62A3D-B229-4AFB-9137-5CC84836FA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EC2329-5AAF-4E25-842C-2D4A55010717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EC2329-5AAF-4E25-842C-2D4A55010717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EC2329-5AAF-4E25-842C-2D4A55010717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EC2329-5AAF-4E25-842C-2D4A55010717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
